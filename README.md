@@ -1,6 +1,7 @@
 
 ## Install Elastic Beats 
-ansible-playbook beats.yml
+$ sudo amazon-linux-extras install ansible2 -y
+$ ansible-playbook beats.yml
 
 
 
